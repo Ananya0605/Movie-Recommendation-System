@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Inception",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "rating": 8.8,
+        "reviews": [
+            {
+                "rating": 9.0,
+                "review": "Mind-bending and visually stunning!"
+            },
+            {
+                "rating": 10.0,
+                "review": "Good"
+            }
+        ]
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": "Sci-Fi",
+        "rating": 8.7,
+        "reviews": [
+            {
+                "rating": 8.7,
+                "review": "The cinematography was beautiful, with breathtaking landscapes."
+            }
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": "Sci-Fi",
+        "rating": 8.7,
+        "reviews": [
+            {
+                "rating": 9.0,
+                "review": "A revolutionary film that redefined action and sci-fi."
+            }
+        ]
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "genre": "Sci-Fi",
+        "rating": 8.0,
+        "reviews": [
+            {
+                "rating": 8.2,
+                "review": "A visually immersive experience with deep themes."
+            }
+        ]
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "genre": "Action",
+        "rating": 8.4,
+        "reviews": [
+            {
+                "rating": 9.0,
+                "review": "Perfect conclusion to a decade-long saga!"
+            }
+        ]
+    },
+    {
+        "title": "John Wick",
+        "year": 2014,
+        "genre": "Action",
+        "rating": 7.4,
+        "reviews": [
+            {
+                "rating": 7.8,
+                "review": "Stylish action and Keanu Reeves at his best."
+            }
+        ]
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "genre": "Action",
+        "rating": 8.1,
+        "reviews": [
+            {
+                "rating": 8.5,
+                "review": "Non-stop action with a gritty post-apocalyptic world."
+            }
+        ]
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "genre": "Action",
+        "rating": 8.5,
+        "reviews": [
+            {
+                "rating": 9.0,
+                "review": "Epic performances and thrilling battles."
+            }
+        ]
+    },
+    {
+        "title": "The Notebook",
+        "year": 2004,
+        "genre": "Romance",
+        "rating": 7.9,
+        "reviews": [
+            {
+                "rating": 8.0,
+                "review": "A touching love story that stays with you."
+            }
+        ]
+    },
+    {
+        "title": "La La Land",
+        "year": 2016,
+        "genre": "Romance",
+        "rating": 8.0,
+        "reviews": [
+            {
+                "rating": 8.2,
+                "review": "A heartfelt blend of music, love, and dreams."
+            }
+        ]
+    },
+    {
+        "title": "Avengers",
+        "genre": "Action",
+        "year": 2012,
+        "rating": 9.0,
+        "reviews": []
+    },
+    {
+        "title": "Raabta",
+        "genre": "Romance",
+        "year": 2019,
+        "rating": 8.0,
+        "reviews": [
+            {
+                "rating": 9.0,
+                "review": "Good"
+            }
+        ]
+    },
+    {
+        "title": "Hum sath sath sath hai",
+        "genre": "Romance",
+        "year": 1999,
+        "rating": 8.0,
+        "reviews": []
+    }
+]
